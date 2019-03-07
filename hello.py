@@ -1,2 +1,2 @@
 print("Hello World!")
-print("Assalam, Rossiya")
+System.out.print("Hello Teacher!")
